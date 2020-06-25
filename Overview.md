@@ -30,7 +30,12 @@
 ## 6. Beliefs about Marriage and Spousal Characteristics
      
 ###    6.1 Marriage Probabilities
+        - The top panel of Table 6 shows that the average probability of being married (unconditional on human capital, that is, “overall”) grows from between 15-18 percent shortly after graduation (about age 23), to around 59-63 percent at age 30, and to about 80 percent by age 45.
+        - Examining beliefs by type of human capital, the average expected marriage probabilities at age 30 and 45 are generally lower for the no degree field than for the other two fields, for both genders.
+        - Panel B of Table 6 indicates that women believe that completing a degree in science or business rather than in humanities or social sciences reduces their chances of being married at age 23 by nearly 10 percent.
+        - This finding indicates that women believe that choosing a more technical college major in science or business would likely cause them to delay marriage, but that marriage rates at age 45 would be about the same no matter what their college major.
 ###    6.2 Marital Sorting: Potential Spouse’s Earnings
+        - emphasized to respondents that they were to report beliefs about their spouse’s earnings conditional on their own major, not the potential spouse’s major (page 27 pdf)
 ###    6.3 Marital Sorting: Assortative Mating by Education
 ## 7. Beliefs about Fertility
 ## 8. Beliefs about Future Labor Supply
@@ -44,6 +49,10 @@
 Survey
 ## 12. Conclusion
 
+
+Questions:
+    - Do they ask for the actual income at age 23?
+    - 
 ---
 ---
 1-4, 12 beide lesen
