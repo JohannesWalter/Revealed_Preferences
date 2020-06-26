@@ -36,8 +36,18 @@
         - This finding indicates that women believe that choosing a more technical college major in science or business would likely cause them to delay marriage, but that marriage rates at age 45 would be about the same no matter what their college major.
 ###    6.2 Marital Sorting: Potential Spouse’s Earnings
         - emphasized to respondents that they were to report beliefs about their spouse’s earnings conditional on their own major, not the potential spouse’s major (page 27 pdf)
+        - beliefs about spouses’ earnings are generally lower than own earnings for male students, while female students believe their spouse’s earnings will exceed their own earnings
+        - These qualitative general patterns are consistent with the realized data on currently married couples as revealed in the ACS
+        - Average spousal earnings returns are positive for major choice (science or business relative to humanities) and for completing college, indicating that individuals believe their investment in higher earning majors and completing a college degree will yield not only higher own earnings but lead to matches with higher earning spouses as well
 ###    6.3 Marital Sorting: Assortative Mating by Education
+        - Both female and male respondents expect science/business to be the modal spousal major regardless of the major they themselves graduate with. However, the table clearly shows that matching by education is perceived to be assortative
+        - Overall, the perceived patterns are consistent with the well-documented fact that there is assortative mating by education
 ## 7. Beliefs about Fertility
+        - Two mechanisms could be at work: 
+                1.) increasing demand for children because more income and children are a normal good or decreasing demand through "child quality quantity" trade-off.
+                2.) depending on your major you get a job that is easy or difficult to combine with having children
+        - The expected fertility by age 45 is 1.7 children for men and 1.8 children for women. This level of fertility is reasonable and quite similar to the actual average fertility rate in the United States (1.9 births per woman).
+        - completing a college degree, relative to no degree, is believed to nearly double their expected number of children. The beliefs of the students in our sample are consistent with the idea that children are a normal good, and the anticipated loss of income from not completing a college degree reduces the demand for children. However, this belief runs counter to the well-known pattern that fertility declines with income and education level. This pattern could also be due to a reduction in perceived marriage prospects if one were to not graduate versus complete a college degree.
 ## 8. Beliefs about Future Labor Supply
 ###    8.1 Unconditional Labor Supply
 ###    8.2 Labor Supply by Marital Status
@@ -52,7 +62,9 @@ Survey
 
 Questions:
     - Do they ask for the actual income at age 23?
-    - 
+    - How is this revealed preferences?
+    - Look up on assortative matching (chap 6.3)
+    - What is the actual distribution at age 23, 30, 45? And how does it compare to their expectations?
 ---
 ---
 1-4, 12 beide lesen
