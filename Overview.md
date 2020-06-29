@@ -125,7 +125,22 @@ where $X$ is a vector of possible outcomes.
 
 
 ## 11. Beliefs and Realized Outcomes: Results from a Follow-Up
-Survey
+
+- How well do students' expectations predict their actual choices?
+
+- How well can students anticipate their future careers and family life?
+
+Outcomes vs. expectations:
+
+- For earnings: cannot reject hypothesis that actual outcome is the same as expected.
+
+- For labor supply: females overestimated the frequency of working part-time: belief at 30 18%; actual 9% at 25; maybe part-time work would be more common at 30 due to children
+
+- Spouse's earnings: Female respondents’ average belief is in fact lower than the realized average, while the opposite is the case for male respondents.
+
+- Regression of actual earnings on expected earnings: statistically significant coefficient, but only $R^2$ of 0.09, which indicated that student do not have perfect foresight regarding earnings. Futhermore, female students are a lot better at predicting future earnings than male students. Maybe overconfidence of males?
+
+
 ## 12. Conclusion
 
 
