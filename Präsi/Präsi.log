@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.13)  25 JUN 2020 14:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.13)  29 JUN 2020 15:37
 entering extended mode
-**"c:/Users/JWL/Documents/Summer School Courses 2020/Revealed Preferences/Github Revealed Preferences/Revealed_Preferences/Präsi.tex"
-("c:/Users/JWL/Documents/Summer School Courses 2020/Revealed Preferences/Github Revealed Preferences/Revealed_Preferences/Präsi.tex"
+**"c:/Users/JWL/Documents/Summer School Courses 2020/Revealed Preferences/Github Revealed Preferences/Revealed_Preferences/Präsi/Präsi.tex"
+("c:/Users/JWL/Documents/Summer School Courses 2020/Revealed Preferences/Github Revealed Preferences/Revealed_Preferences/Präsi/Präsi.tex"
 LaTeX2e <2019-10-01> patch level 3
 ("C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamer.cls"
 Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
@@ -535,7 +535,7 @@ LaTeX Info: Redefining \textlatin on input line 2185.
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
-)) ("c:/Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.aux")
+)) ("c:/Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.aux")
 \openout1 = `Präsi.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -624,7 +624,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 17.
 LaTeX Info: Redefining \pageref on input line 17.
 LaTeX Info: Redefining \nameref on input line 17.
- ("c:/Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.out") ("c:/Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.out")
+ ("c:/Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.out") ("c:/Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.out")
 \@outlinefile=\write5
 \openout5 = `Präsi.out'.
 
@@ -689,20 +689,31 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) ("C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\translator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
-) ("c:/Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.nav") [1
+) ("c:/Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.nav") [1
 
 {C:/Users/JWL/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for OMS+cmss on input line 29.
-LaTeX Font Info:    No file OMScmss.fd. on input line 29.
-
-
-LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 29.
-
-[2
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+ ("C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+ ("C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 35.
+ ("C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sansmathaccent\ot1mathkerncmss.fd"
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+) [2
 
 ]
+<Table2.png, id=67, 516.7305pt x 517.33275pt>
+File: Table2.png Graphic file (type png)
+<use Table2.png>
+Package pdftex.def Info: Table2.png  used on input line 39.
+(pdftex.def)             Requested size: 206.68854pt x 206.92943pt.
+ [3
+
+ <c:/Users/JWL/Documents/Summer School Courses 2020/Revealed Preferences/Github Revealed Preferences/Revealed_Preferences/Präsi/Table2.png>]
 \tf@nav=\write6
 \openout6 = `Präsi.nav'.
 
@@ -712,30 +723,26 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 \tf@snm=\write8
 \openout8 = `Präsi.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 31.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 31.
- ("c:/Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 31.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 31.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+ ("c:/Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
 Package rerunfilecheck Info: File `Präsi.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
  ) 
 Here is how much of TeX's memory you used:
- 18017 strings out of 492450
- 345414 string characters out of 3120938
- 430242 words of memory out of 3000000
- 21940 multiletter control sequences out of 15000+200000
- 5708 words of font info for 21 fonts, out of 3000000 for 9000
+ 18116 strings out of 492450
+ 348000 string characters out of 3120938
+ 432242 words of memory out of 3000000
+ 22015 multiletter control sequences out of 15000+200000
+ 10391 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,14n,57p,916b,552s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 58i,14n,57p,923b,552s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/JWL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/JWL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/JWL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "c:/Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.pdf" (2 pages, 39375 bytes).
+Output written on "c:/Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.pdf" (3 pages, 184460 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 43 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 108 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 

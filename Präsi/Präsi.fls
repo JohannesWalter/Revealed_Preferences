@@ -1,7 +1,7 @@
-PWD c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences
+PWD c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi
 INPUT C:\Users\JWL\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.tex
-OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.log
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.tex
+OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.log
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamer.cls
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamer.cls
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasemodes.sty
@@ -240,7 +240,7 @@ INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamercolo
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerinnerthemedefault.sty
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerinnerthemedefault.sty
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonbook.pdf
-OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.pdf
+OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.pdf
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonbook.pdf
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonbook.pdf
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamericonbook.20.pdf
@@ -275,9 +275,9 @@ INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\eng
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\english.ldf
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.aux
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.aux
-OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.aux
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.aux
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.aux
+OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.aux
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
@@ -290,13 +290,13 @@ INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\refcount
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\refcount.sty
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.out
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.out
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.out
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.out
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.out
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.out
-OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.out
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.out
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.out
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.out
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.out
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.out
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.out
+OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.out
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-English.dict
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-English.dict
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-bibliography-dictionary-English.dict
@@ -309,20 +309,48 @@ INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transl
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-numbers-dictionary-English.dict
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-theorem-dictionary-English.dict
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-theorem-dictionary-English.dict
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.nav
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.nav
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.nav
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.nav
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss17.tfm
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\JWL\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
-OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.nav
-OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.toc
-OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.snm
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.aux
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.out
-INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi.out
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi12.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Table2.png
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Table2.png
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Table2.png
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Table2.png
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Table2.png
+OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.nav
+OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.toc
+OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.snm
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.aux
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.out
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.out
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss12.pfb
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss12.pfb
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss17.pfb
