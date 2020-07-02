@@ -202,7 +202,12 @@ Finally, I ask that you email me a pdf copy of your slides at least 24 hours in 
 - Perceived ability is significant when choosing a major.
 
 ### 5. What are the main limitations of the research design?
-   
+
+ - General survey problems:
+   - Is the survey design affecting answers?
+   - Stated vs. true preferences?
+   - Thoroughness of answers?
+
 - Outcomes are in part affected by individuals' future decisions (marriage or child decisions), which can be the result of changes in preferences rather than human capital investments. Other outcomes might be affected by outside shocks (wages)
   
 - How are the evolving beliefs of individuals accounted for? A decision in period $t$ might affect beliefs in period $t+1$.
@@ -215,3 +220,5 @@ Finally, I ask that you email me a pdf copy of your slides at least 24 hours in 
    >Imagine that you could go back and redo the study. How would you modify the research design to advance knowledge? For example, what additional data would you collect and how would you use it? What additional models would you run?
 
 - Run follow-up sample when the students actually realize the outcomes, i.e. at age = 30 and 45.
+
+- sample not representative; increase external validity by expanding the sample; might also elicit heterogeneity in beliefs.
