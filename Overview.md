@@ -35,13 +35,12 @@ where $X$ is a vector of possible outcomes.
 ## 5. Earnings Beliefs
 
 ###    5.1 Earnings Levels
-        - How do students think capital investment will influence their own future earnings? These are the self-beliefs. Asked to consider future degrees as well.Asked to consider no inflation.
+- How do students think capital investment will influence their own future earnings? These are the self-beliefs. Asked to consider future degrees as well.Asked to consider no inflation.
 
-        - the qualitative patterns are similar in that the students in our sample expect substantially higher earnings in business and science majors relative to humanities, and higher earnings in humanities than if they were not to graduate.
+- the qualitative patterns are similar in that the students in our sample expect substantially higher earnings in business and science majors relative to humanities, and higher earnings in humanities than if they were not to graduate.
 ###    5.2 Earnings Return
-        - del_i = ln(E_i(w_it(k))) - ln(E_i(w_it(k0)))
-        - del_i can be positive if the individual perceives a positive return to human capital
-        investment k over k0,
+- del_i = ln(E_i(w_it(k))) - ln(E_i(w_it(k0)))
+- del_i can be positive if the individual perceives a positive return to human capital investment k over k0,
         
 ###    5.3 Earnings Growth
         - - The students in our sample expect large earnings growth in the early part of their
