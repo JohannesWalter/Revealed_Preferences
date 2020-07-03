@@ -220,4 +220,30 @@ Finally, I ask that you email me a pdf copy of your slides at least 24 hours in 
 
 - Run follow-up sample when the students actually realize the outcomes, i.e. at age = 30 and 45.
 
-- sample not representative; increase external validity by expanding the sample; might also elicit heterogeneity in beliefs.
+- sample not representative; increase external validity by expanding the sample; might also elicit heterogeneity in beliefs regionally / by ability
+
+- business and science in one category; motivations and beliefs might be a lot different for business students (extrinsic motivation, higher emphasis on earnings)
+
+- Study is not causal; (field) experiment?
+
+- Stated preferences and not consequential
+
+
+## Structure of presentation
+
+1. Summary: __Sebastian__
+  - Research question _(Q1)_
+  - quick glance into survey / data
+  - main results
+2. Model: _(Q2)_ (Kapitel 2) __Sebastian__
+  - Expected Results to Human Capital / Beliefs
+  - Distinguishing Ex-ante Treatment effects, Potential Outcomes, Realized Outcomes
+3. Data _(Q3)_ (Kapitel 3 und 4) __Johannes__
+  - Chapter 3 und 4
+  - Survey limitations _(partially Q5)_
+4. Results _(Q4)_ (Kapitel 5-8) __Johannes__
+  - What are the main results here? Otherwise, this part will become a bit tedious.
+  - Policy implications?
+5. Question of Heterogeneity (Kapital 9) __Sebastian__
+6. Question of Beliefs vs. realized outcomes (Kapitel 10, 11) __Sebastian__
+7. Future research _(partially Q6)_ __Sebastian__ / __Johannes__
