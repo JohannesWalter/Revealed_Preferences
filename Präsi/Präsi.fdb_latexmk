@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1593690957 "c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Präsi.tex" "c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Präsi.pdf" "Präsi" 1593690960
+["pdflatex"] 1593953006 "c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Präsi.tex" "c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Präsi.pdf" "Präsi" 1593953009
   "C:/Users/SVL/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1573662862 4272937 6ed9687ffe27b5453ec7ca4c37748ee4 ""
   "C:/Users/SVL/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1593590471 83930 a60ec061f757cf348be11677879bca0c ""
   "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
@@ -16,6 +16,7 @@
   "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmss12.tfm" 1136768653 1324 37b971caf729d7edd9cbb9f9b0ea76eb ""
   "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmss17.tfm" 1136768653 1320 ed93d62c5f2c16343826001f03341dbc ""
   "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmss8.tfm" 1136768653 1296 d77f431d10d47c8ea2cc18cf45346274 ""
+  "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmssbx10.tfm" 1136768653 1272 e2d13f0df30bf3ad990bb9d028e37f34 ""
   "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
@@ -23,6 +24,7 @@
   "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm" 1363553114 1676 fb6c6a335484692abff897d6e8965829 ""
   "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb" 1247596666 24393 3b7eb51a67a0a62aec5849271bdb9c2e ""
   "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb" 1247596667 24416 36515493f76659302880e2604105b074 ""
+  "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb" 1247596666 28902 2f5c04fd2884d1878057baa5aad22765 ""
   "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/tex/context/base/mkii/supp-pdf.mkii" 1550864520 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/tex/generic/babel/babel.def" 1571148757 81804 3bb5472a03aeb22f281905fcc1b735b2 ""
@@ -197,8 +199,8 @@
   "Graphs/Table 6 Beliefs about Marriage.png" 1593690955 167547 6a85725b912078ebb95aac6050f63c23 ""
   "Graphs/Table 7 Beliefs about Potential Spousal Earnings.png" 1593690955 177444 fb2a3a8656a11bb838b44c2e77451d83 ""
   "Table2.png" 1593589447 190273 e3c81fa4405d00fde99a23e163b68fc8 ""
-  "c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Präsi.aux" 1593690960 2002 6cb560d142d3e8a8469d699a2671c478 ""
-  "c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Präsi.tex" 1593690955 2116 06dac621c81cd4dc4db5f5df9e6395c9 ""
+  "c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Präsi.aux" 1593953009 2260 50fc02e7b34495274e82e63c924b137b ""
+  "c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Präsi.tex" 1593953005 3433 29177fb8189e47e0718ec1b58ed1f177 ""
   (generated)
   "c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Präsi.pdf"
   "c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Präsi.log"

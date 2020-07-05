@@ -316,6 +316,7 @@ INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss17.
 INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\SVL\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
 INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
@@ -380,5 +381,7 @@ INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts
 INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss12.pfb
 INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss17.pfb
 INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss17.pfb
+INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
+INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
