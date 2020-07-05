@@ -340,6 +340,30 @@ INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmathaccent\ot
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi12.tfm
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssi10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss8.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi10.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Table2.png
+INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Table2.png
 INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Table2.png
 INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Table2.png
 INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Table2.png
@@ -376,9 +400,31 @@ OUTPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Gi
 INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.aux
 INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.out
 INPUT c:\Users\JWL\Documents\Summer School Courses 2020\Revealed Preferences\Github Revealed Preferences\Revealed_Preferences\Präsi\Präsi.out
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss10.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss10.pfb
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss12.pfb
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss12.pfb
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss17.pfb
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss17.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss8.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmss8.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssi10.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssi10.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssi12.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssi12.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssi8.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssi8.pfb
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\JWL\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
