@@ -11,6 +11,7 @@
 \usepackage{xcolor}
 \author{Sebastian Valet, Johannes Walter}
 \title{Human Capital Investments and Expectations about Career and Family}
+\date{July 7, 2020}
 %\setbeamercovered{transparent} 
 %\setbeamertemplate{navigation symbols}{} 
 %\logo{} 
@@ -27,15 +28,15 @@
 %\tableofcontents
 %\end{frame}
 
+% Summary: Research question and design
 \begin{frame}{Summary I}
-    \textbf{Research questions}
+    \framesubtitle{Research questions and design}
         \begin{itemize}
             \item What do students believe about the consequences of their education choices?
             \item How do students sort into majors?
             \item Novel: what role do family variables play in such choices?
         \end{itemize}
     \vspace{0.5cm}
-    \textbf{Research design}
         \begin{itemize}
             \item Survey with undergraduate students at NYU on perceptions about consequences of educational choices
             \item Specifically: choice of a major
@@ -43,14 +44,57 @@
         \end{itemize}
 \end{frame}
 
+% Summary: Results
 \begin{frame}{Summary II}
-    \textbf{Results}
+    \framesubtitle{Results}
     \begin{itemize}
         \item Students believe in importance of consequences for own earnings and family life
         \item Particularly women, major choice also corresponds to different rates and timing of marriage and fertility
         \item Belief about marriage market "return" to higher earning majors
         \item Ex-ante beliefs are systematically related to educational choices and ex-post realized outcomes
     \end{itemize}
+\end{frame}
+
+% Model of beliefs and realized choices
+\begin{frame}{Model I}
+    \framesubtitle{Human capital investment under uncertainty}
+    \begin{itemize}
+        \item Expected utility for human capital choice at time $\tau$: 
+        $$ E_{i,\tau}(V_k) = \sum_{t = \tau + 1}^{T} \beta^{t - \tau}  \int u_t(X) \; dG_{i,\tau}(X|k,t) $$
+        \item with discount rate $beta$ and outcome $X$ for all subsequent periods given a human capital investment $k$
+        \item $G_{i,\tau}(X|k,t)$ is the belief distribution about the outcome given human capital investments $k$
+    \end{itemize}   
+\end{frame}
+
+% Belief distribution
+\begin{frame}{Model II}
+    \framesubtitle{Belief distribution $G_{i,\tau}(X|k,t)$}
+    \begin{itemize}
+        \item Survey design elicits beliefs $G_{i,\tau}(X|k,t)$ about the choice of a major
+        \item Belief distrubtions have four characteristics:
+        \begin{itemize}
+            \item reflect individual \textit{uncertainty}
+            \item are \textit{heterogenous}
+            \item can be \textit{incorrect}
+            \item can evolve over time due to \textit{learning}
+        \end{itemize}
+        \item Natural limitation: elicitation of degree of uncertainty \textcolor{red}{ask Jogibär if put here; also how do they elicit?}
+    \end{itemize}
+\end{frame}
+
+% Effects of Human Capital Choices
+\begin{frame}{Model III}
+    \framesubtitle{Different effects of human capital choices}
+    \begin{itemize}
+        \item Ex-ante individual differences in beliefs
+        $$ \Delta_{G,i}(k,k') = G_i(X|k,t) - G_i(X|k',t) $$
+        \item Ex-post individual differences in potential outcomes
+        $$ \Delta_{F,i}(k,k') = F_i(X|k,t) - F_i(X|k',t) $$
+        \item Ex-post individual differences realized outcomes
+        $$ \Delta_{H}(k,k') = H(X|k,t) - H(X|k',t) $$ \\
+        with $H(X|k,t) = \frac{1}{M_k} \sum_{t \in \Omega_k} F_i(k = k^*,t)$
+    \end{itemize}
+    
 \end{frame}
 
 
