@@ -222,11 +222,13 @@ Finally, I ask that you email me a pdf copy of your slides at least 24 hours in 
 
 - sample not representative; increase external validity by expanding the sample; might also elicit heterogeneity in beliefs regionally / by ability
 
-- business and science in one category; motivations and beliefs might be a lot different for business students (extrinsic motivation, higher emphasis on earnings)
+- business and science in one category; motivations and beliefs might be a lot different for business students (extrinsic motivation, higher emphasis on earnings). Johannes' comment: Science and business are two different fields in their survey. Only in their analysis they throw them together
 
 - Study is not causal; (field) experiment?
 
 - Stated preferences and not consequential
+
+- They elicit beliefs, but they don't attempt to uncover the underlying reasons for these beliefs. Understanding the reasons could be necessary for useful policy recommendations. Examle: Men and women believe men will earn more at each age. Why? Do they believe in discrimination or is it due to the anticipated lower level of labor supply? Easiest way to get to these believed reasons is to extend the survey.
 
 
 ## Structure of presentation
