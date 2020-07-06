@@ -104,15 +104,16 @@
         \item Beliefs about earnings, earnings growth, earnings uncertainty, marriage, spousal earnings, fertility and labor supply
         \item Questions conditioned on ages 23, 30 and 45
         \item Sample consists of 493 individuals
+        \item Main sources of variation in the data: gender, major choice, age
         \item Follow-up survey 6 years later
     \end{itemize}
 \end{frame}
 
 % These sildes can probably go in the appendix
 % We should probably skip this section entirely? In the appendix?
-\begin{frame}{Current Population Characteristics I}
+\begin{frame}{Current Population Characteristics}
     \begin{itemize}
-        \item Earnings, employment, and marriage data for the US population using the 2009
+        \item Earnings, employment, and marriage data for the US population using the 2009 ACS data
         \item Not suited for causal inference; needs not reflect the student's beliefs
         \item Data from older cohort; includes not only high-ability participants
         \item But data is suited to document that career and family outcomes differ by educational choices in observational data
@@ -124,17 +125,23 @@
     \framesubtitle{Earnings Levels} 
     \begin{itemize}
         \item Male students believe to earn more than female students at each age
-        \item All students believe to see rapid growth in earnings
-        \item Students believe to see substantially smaller earning growth if they don't major in science/business
         \item Perceived gender gap is largest in science/business and at later stages
+        \item Higher expected earnings for a science/business degree (54k \$) than for huamnities degree (40k \$)
+        \item Are these beliefs accurate and reasonable? Expectations and realizationsa are positvely correlated
+        \item Expected earnings are much higher than what ACS data suggests
     \end{itemize}
 \end{frame}
 
 % Earnings Beliefs: Earnings Returns
 \begin{frame}{Earnings Beliefs}
-    \framesubtitle{Earnings Returns and Earnings Growth} 
+    \framesubtitle{Earnings Returns, Growth, Uncertanties} 
     \begin{itemize}
-        \item Should I make go more into details here?
+        \item Both female and male students perceive an approximately 30\% higher return to completing a degree in science/busniess relative to humanities and an approximately 60\% higher return to graduating relative to no degree.
+        \item Expected returns grow over time, with higher expected returns for male students at the later ages
+        \item There is considerable variation in the expected returns 
+        \item Students believe to see larger earning growth in the early parts of their careers
+        \item Earings growth is believed to be higher for science/business relativee to humanities
+        \item Uncertainty in earnings is much higher in the no degree scenario
     \end{itemize}
 \end{frame}
 
@@ -180,6 +187,16 @@
     \end{itemize}
 \end{frame}
 
+\begin{frame}{Policy Implications}
+    \framesubtitle{} 
+    \begin{itemize}
+        \item Beliefs about earnings and family variables matter and play an important role in degree choice 
+        \item Male students believe family variables to influence their career less than female students  
+        \item Suggests that society wide belief systems have to change to affect gender pay gap and gender gap in major choices 
+        \item Students who choose a humanities degree still expect higher returns to a science/business degree
+    \end{itemize}
+\end{frame}
+
 \begin{frame}{Beliefs and Human Capital Choices I}
     \begin{itemize}
         \item Do beliefs actually influence intended and actual decisions?
@@ -188,7 +205,6 @@
 \end{frame}
 
 \begin{frame}{Beliefs and Human Capital Choices II}
-    \framesubtitle{Females}
      \begin{center}
         \begin{tikzpicture}
             \node[anchor=south west,inner sep=0] at (0,0) {\includegraphics[scale = 0.35]{Graphs/Table14-female.png}};
@@ -199,8 +215,7 @@
     \end{center}
 \end{frame}
 
-\begin{frame}{Beliefs and Human Capital Choices II}
-    \framesubtitle{Males}
+\begin{frame}{Beliefs and Human Capital Choices III}
     \begin{center}
         \begin{tikzpicture}
             \node[anchor=south west,inner sep=0] at (0,0) {\includegraphics[scale = 0.35]{Graphs/Table14-male.png}};
@@ -235,28 +250,19 @@
 \end{frame}
 
 \begin{frame}{Beliefs and Realized Outcomes III}
-    \framesubtitle{Individual-level relationship - career}
-    \begin{center}
-        \begin{tikzpicture}
-            \node[anchor=south west,inner sep=0] at (0,0) {\includegraphics[scale = 0.35]{Graphs/Table16-earnings.png}};
-            \draw<2>[red,ultra thick,rounded corners] (4.6,3.8) rectangle (7.6, 4.4);
-            \draw<2>[red,ultra thick,rounded corners] (4.6,2.3) rectangle (7.6, 2.9);
-            \draw<2>[red,ultra thick,rounded corners] (4.6,0.8) rectangle (7.6, 1.4);
-        \end{tikzpicture}
-    \end{center}
+    \framesubtitle{Individual-level relationshp}
+    \begin{tikzpicture}
+        \node[anchor=south west,inner sep=0] at (0,0) {\includegraphics[scale = 0.35]{Graphs/Table17-earnings.png}};
+        \draw<2>[red,ultra thick,rounded corners] (3.3,4.3) rectangle (8.0, 5.3);
+    \end{tikzpicture}
 \end{frame}
 
-\begin{frame}{Beliefs and Realized Outcomes IV}
-    \framesubtitle{Individual-level relationship - family variables}
+\begin{frame}{Limitations}
+    \framesubtitle{} 
     \begin{itemize}
-        \item Marriage variable is distorted due to young age of respondents
-        \item Significant if approximated by actual outcome "in a relationship"
-        \item Beliefs about spousal income are predictive for actual spousal income
-        \vspace{0.5cm}
-        \item Overall beliefs compare favorably to actual outcomes
-        \item Indication that students can anticipate career and family outcomes of educational choices to some degree
+        \item Representativeness of sample?
+        \item Due to time restrictions, the authors did not ask about reasons for participant's beliefs
     \end{itemize}
-   
 \end{frame}
 
 \begin{frame}{Future Research}
@@ -270,7 +276,7 @@
 \end{frame}
 
 %Current Pop stats
-\begin{frame}{Current Population Characteristics II}
+\begin{frame}{Current Population Characteristics}
     \includegraphics[scale=0.4]{Table2.png}
 \end{frame}
 
@@ -297,28 +303,6 @@
 % Beliefs about Potential Spousal Earnings
 \begin{frame}{Beliefs about Potential Spousal Earnings}
     \includegraphics[scale=0.35]{Graphs/Table 7 Beliefs about Potential Spousal Earnings.png}
-\end{frame}
-
-% Beliefs and Realized Outcomes
-\begin{frame}{Beliefs and Realized Outcomes}
-    \framesubtitle{Population statistics - career variables}
-    \begin{center}
-        \includegraphics[scale = 0.5]{Graphs/Table15-career.png}
-    \end{center}
-\end{frame}
-
-\begin{frame}{Beliefs and Realized Outcomes}
-    \framesubtitle{Population statistics - family variables}
-    \begin{center}
-        \includegraphics[scale = 0.5]{Graphs/Table15-family.png}
-    \end{center}
-\end{frame}
-
-\begin{frame}{Beliefs and Realized Outcomes}
-    \framesubtitle{Individual-level relationship - family variables}
-    \begin{center}
-        \includegraphics[scale = 0.35]{Graphs/Table16-family.png}
-    \end{center}
 \end{frame}
 
 \end{document}
