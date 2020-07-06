@@ -230,6 +230,8 @@ Finally, I ask that you email me a pdf copy of your slides at least 24 hours in 
 
 - They elicit beliefs, but they don't attempt to uncover the underlying reasons for these beliefs. Understanding the reasons could be necessary for useful policy recommendations. Examle: Men and women believe men will earn more at each age. Why? Do they believe in discrimination or is it due to the anticipated lower level of labor supply? Easiest way to get to these believed reasons is to extend the survey.
 
+- We could look at the literature around this paper again. What gap are they trying to fill? How else could we tackle this problem?
+
 
 ## Structure of presentation
 
