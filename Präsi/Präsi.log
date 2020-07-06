@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 NEXT 64-bit) (preloaded format=pdflatex 2019.11.13)  6 JUL 2020 14:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 NEXT 64-bit) (preloaded format=pdflatex 2019.11.13)  6 JUL 2020 14:54
 entering extended mode
 **c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Präsi.tex
 (c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Präsi.tex
@@ -506,22 +506,475 @@ Package: amsthm 2017/10/31 v2.20.4
 )
 \c@theorem=\count156
 ) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerbasethemes.sty")) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerthemedefault.sty" ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerfontthemedefault.sty") ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamercolorthemedefault.sty") ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerinnerthemedefault.sty"
-C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerinnerthemedefault.sty:16: I can't write on file `Präsi.pdf'.
-Please type another file name for output
-C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerinnerthemedefault.sty:16: Emergency stop.
-\pgfsys@defineimage ...astform }\else {\pdfximage 
-                                                  \pgf@imageheight \pgf@imag...
-l.16 ...ight=12pt]{beamericonbook}{beamericonbook}
-                                                  
-*** (job aborted, file error in nonstop mode)
+\beamer@dima=\dimen187
+\beamer@dimb=\dimen188
+) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerouterthemedefault.sty"))) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerthemePittsburgh.sty" ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerinnerthemecircles.sty")) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks43
+\inpenc@posthook=\toks44
+) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/10/15 3.35 The Babel package
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/10/15 3.35 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/10/15 3.35 Babel common definitions
+\babel@savecnt=\count157
+\U@D=\dimen189
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+LaTeX Info: Redefining \textlatin on input line 2185.
+\bbl@dirlevel=\count158
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer\tikz.sty" ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf.sty"
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleshapes.code.tex"
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box55
+) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty"
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen190
+\pgf@nodesepend=\dimen191
+) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty"
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgffor.sty" ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfkeys.sty" ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex")) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.sty" ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex")) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgffor.code.tex"
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex")
+\pgffor@iter=\dimen192
+\pgffor@skip=\dimen193
+\pgffor@stack=\toks45
+\pgffor@toks=\toks46
+)) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex"
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count159
+\pgfplotmarksize=\dimen194
+)
+\tikz@lastx=\dimen195
+\tikz@lasty=\dimen196
+\tikz@lastxsaved=\dimen197
+\tikz@lastysaved=\dimen198
+\tikz@lastmovetox=\dimen199
+\tikz@lastmovetoy=\dimen256
+\tikzleveldistance=\dimen257
+\tikzsiblingdistance=\dimen258
+\tikz@figbox=\box56
+\tikz@figbox@bg=\box57
+\tikz@tempbox=\box58
+\tikz@tempbox@bg=\box59
+\tikztreelevel=\count160
+\tikznumberofchildren=\count161
+\tikznumberofcurrentchild=\count162
+\tikz@fig@count=\count163
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count164
+\pgfmatrixcurrentcolumn=\count165
+\pgf@matrix@numberofcolumns=\count166
+)
+\tikz@expandcount=\count167
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (c:/Users\SVL\Seafile\documents\git-repositories\summercourse-revealed-preferences\Revealed_Preferences\Präsi\Präsi.aux)
+\openout1 = `Präsi.aux'.
 
- 
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(28.45274pt, 307.28987pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=307.28987pt
+* \textheight=244.6939pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count168
+\scratchdimen=\dimen259
+\scratchbox=\box60
+\nofMPsegments=\count169
+\nofMParguments=\count170
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count171
+\MPscratchDim=\dimen260
+\MPnumerator=\count172
+\makeMPintoPDFobject=\count173
+\everyMPtoPDFconversion=\toks48
+) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box61
+Package hyperref Info: Link coloring OFF on input line 24.
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\refcount.sty"
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count174
+)
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
+ (c:/Users\SVL\Seafile\documents\git-repositories\summercourse-revealed-preferences\Revealed_Preferences\Präsi\Präsi.out) (c:/Users\SVL\Seafile\documents\git-repositories\summercourse-revealed-preferences\Revealed_Preferences\Präsi\Präsi.out)
+\@outlinefile=\write5
+\openout5 = `Präsi.out'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 24.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 24.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 24.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 24.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 24.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 24.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 24.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 24.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 24.
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\translator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\translator-bibliography-dictionary-English.dict"
+Dictionary: translator-bibliography-dictionary, Language: English 
+) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\translator-environment-dictionary-English.dict"
+Dictionary: translator-environment-dictionary, Language: English 
+) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\translator-months-dictionary-English.dict"
+Dictionary: translator-months-dictionary, Language: English 
+) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\translator-numbers-dictionary-English.dict"
+Dictionary: translator-numbers-dictionary, Language: English 
+) ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\translator-theorem-dictionary-English.dict"
+Dictionary: translator-theorem-dictionary, Language: English 
+) (c:/Users\SVL\Seafile\documents\git-repositories\summercourse-revealed-preferences\Revealed_Preferences\Präsi\Präsi.nav) [1
+
+{C:/Users/SVL/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 48.
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 48.
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 48.
+ ("C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sansmathaccent\ot1mathkerncmss.fd"
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
+) [2
+
+] [3
+
+] [4
+
+] [5
+
+] [6
+
+] [7
+
+] [8
+
+] [9
+
+] [10
+
+] [11
+
+] [12
+
+] [13
+
+] [14
+
+]
+<Graphs/Table14-female.png, id=382, 861.2175pt x 520.19344pt>
+File: Graphs/Table14-female.png Graphic file (type png)
+<use Graphs/Table14-female.png>
+Package pdftex.def Info: Graphs/Table14-female.png  used on input line 209.
+(pdftex.def)             Requested size: 301.43063pt x 182.07042pt.
+ [15
+
+ <c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Graphs/Table14-female.png>]
+File: Graphs/Table14-female.png Graphic file (type png)
+<use Graphs/Table14-female.png>
+Package pdftex.def Info: Graphs/Table14-female.png  used on input line 209.
+(pdftex.def)             Requested size: 301.43063pt x 182.07042pt.
+ [16
+
+]
+File: Graphs/Table14-female.png Graphic file (type png)
+<use Graphs/Table14-female.png>
+Package pdftex.def Info: Graphs/Table14-female.png  used on input line 209.
+(pdftex.def)             Requested size: 301.43063pt x 182.07042pt.
+ [17
+
+]
+File: Graphs/Table14-female.png Graphic file (type png)
+<use Graphs/Table14-female.png>
+Package pdftex.def Info: Graphs/Table14-female.png  used on input line 209.
+(pdftex.def)             Requested size: 301.43063pt x 182.07042pt.
+ [18
+
+]
+<Graphs/Table14-male.png, id=483, 841.64438pt x 514.92375pt>
+File: Graphs/Table14-male.png Graphic file (type png)
+<use Graphs/Table14-male.png>
+Package pdftex.def Info: Graphs/Table14-male.png  used on input line 220.
+(pdftex.def)             Requested size: 294.57994pt x 180.226pt.
+ [19
+
+ <c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Graphs/Table14-male.png>]
+File: Graphs/Table14-male.png Graphic file (type png)
+<use Graphs/Table14-male.png>
+Package pdftex.def Info: Graphs/Table14-male.png  used on input line 220.
+(pdftex.def)             Requested size: 294.57994pt x 180.226pt.
+ [20
+
+]
+File: Graphs/Table14-male.png Graphic file (type png)
+<use Graphs/Table14-male.png>
+Package pdftex.def Info: Graphs/Table14-male.png  used on input line 220.
+(pdftex.def)             Requested size: 294.57994pt x 180.226pt.
+ [21
+
+]
+File: Graphs/Table14-male.png Graphic file (type png)
+<use Graphs/Table14-male.png>
+Package pdftex.def Info: Graphs/Table14-male.png  used on input line 220.
+(pdftex.def)             Requested size: 294.57994pt x 180.226pt.
+ [22
+
+] [23
+
+] [24
+
+]
+<Graphs/Table16-earnings.png, id=635, 630.85687pt x 423.83344pt>
+File: Graphs/Table16-earnings.png Graphic file (type png)
+<use Graphs/Table16-earnings.png>
+Package pdftex.def Info: Graphs/Table16-earnings.png  used on input line 251.
+(pdftex.def)             Requested size: 220.8032pt x 148.34392pt.
+ [25
+
+ <c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Graphs/Table16-earnings.png>]
+File: Graphs/Table16-earnings.png Graphic file (type png)
+<use Graphs/Table16-earnings.png>
+Package pdftex.def Info: Graphs/Table16-earnings.png  used on input line 251.
+(pdftex.def)             Requested size: 220.8032pt x 148.34392pt.
+ [26
+
+] [27
+
+] [28
+
+] [29
+
+] [30
+
+] [31
+
+]
+<Table2.png, id=815, 516.7305pt x 517.33275pt>
+File: Table2.png Graphic file (type png)
+<use Table2.png>
+Package pdftex.def Info: Table2.png  used on input line 307.
+(pdftex.def)             Requested size: 206.68854pt x 206.92943pt.
+ [32
+
+ <c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Table2.png>]
+<Graphs/Table 3 Self Earnings.png, id=842, 885.90974pt x 448.67625pt>
+File: Graphs/Table 3 Self Earnings.png Graphic file (type png)
+<use Graphs/Table 3 Self Earnings.png>
+Package pdftex.def Info: Graphs/Table 3 Self Earnings.png  used on input line 314.
+(pdftex.def)             Requested size: 310.07306pt x 157.03903pt.
+
+Overfull \hbox (2.78319pt too wide) in paragraph at lines 314--314
+ [] 
+ []
+
+[33
+
+ <c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Graphs/Table 3 Self Earnings.png>]
+<Graphs/Table 4 Earnings Growth Belief.png, id=869, 569.12625pt x 423.984pt>
+File: Graphs/Table 4 Earnings Growth Belief.png Graphic file (type png)
+<use Graphs/Table 4 Earnings Growth Belief.png>
+Package pdftex.def Info: Graphs/Table 4 Earnings Growth Belief.png  used on input line 321.
+(pdftex.def)             Requested size: 199.19717pt x 148.3966pt.
+ [34
+
+ <c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Graphs/Table 4 Earnings Growth Belief.png>]
+<Graphs/Table 5 Age 30 Earnings Uncertainty.png, id=896, 597.432pt x 446.8695pt>
+File: Graphs/Table 5 Age 30 Earnings Uncertainty.png Graphic file (type png)
+<use Graphs/Table 5 Age 30 Earnings Uncertainty.png>
+Package pdftex.def Info: Graphs/Table 5 Age 30 Earnings Uncertainty.png  used on input line 328.
+(pdftex.def)             Requested size: 209.10432pt x 156.40666pt.
+ [35
+
+ <c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Graphs/Table 5 Age 30 Earnings Uncertainty.png>]
+<Graphs/Table 6 Beliefs about Marriage.png, id=923, 718.48425pt x 403.5075pt>
+File: Graphs/Table 6 Beliefs about Marriage.png Graphic file (type png)
+<use Graphs/Table 6 Beliefs about Marriage.png>
+Package pdftex.def Info: Graphs/Table 6 Beliefs about Marriage.png  used on input line 335.
+(pdftex.def)             Requested size: 251.47325pt x 141.22974pt.
+ [36
+
+ <c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Graphs/Table 6 Beliefs about Marriage.png>]
+<Graphs/Table 7 Beliefs about Potential Spousal Earnings.png, id=950, 710.655pt x 407.121pt>
+File: Graphs/Table 7 Beliefs about Potential Spousal Earnings.png Graphic file (type png)
+<use Graphs/Table 7 Beliefs about Potential Spousal Earnings.png>
+Package pdftex.def Info: Graphs/Table 7 Beliefs about Potential Spousal Earnings.png  used on input line 342.
+(pdftex.def)             Requested size: 248.73297pt x 142.49448pt.
+ [37
+
+ <c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Graphs/Table 7 Beliefs about Potential Spousal Earnings.png>]
+<Graphs/Table15-career.PNG, id=978, 503.63156pt x 243.91125pt>
+File: Graphs/Table15-career.PNG Graphic file (type png)
+<use Graphs/Table15-career.PNG>
+Package pdftex.def Info: Graphs/Table15-career.PNG  used on input line 350.
+(pdftex.def)             Requested size: 251.81516pt x 121.95532pt.
+ [38
+
+ <c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Graphs/Table15-career.PNG>]
+<Graphs/Table15-family.png, id=1005, 504.38437pt x 335.75438pt>
+File: Graphs/Table15-family.png Graphic file (type png)
+<use Graphs/Table15-family.png>
+Package pdftex.def Info: Graphs/Table15-family.png  used on input line 357.
+(pdftex.def)             Requested size: 252.19156pt x 167.87677pt.
+ [39
+
+ <c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Graphs/Table15-family.png>]
+<Graphs/Table16-family.png, id=1030, 621.82312pt x 539.01375pt>
+File: Graphs/Table16-family.png Graphic file (type png)
+<use Graphs/Table16-family.png>
+Package pdftex.def Info: Graphs/Table16-family.png  used on input line 364.
+(pdftex.def)             Requested size: 217.64134pt x 188.65762pt.
+ [40
+
+ <c:/Users/SVL/Seafile/documents/git-repositories/summercourse-revealed-preferences/Revealed_Preferences/Präsi/Graphs/Table16-family.png>]
+\tf@nav=\write6
+\openout6 = `Präsi.nav'.
+
+\tf@toc=\write7
+\openout7 = `Präsi.toc'.
+
+\tf@snm=\write8
+\openout8 = `Präsi.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 366.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 366.
+ (c:/Users\SVL\Seafile\documents\git-repositories\summercourse-revealed-preferences\Revealed_Preferences\Präsi\Präsi.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 366.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 366.
+Package rerunfilecheck Info: File `Präsi.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
 Here is how much of TeX's memory you used:
- 16088 strings out of 492450
- 305839 string characters out of 3120938
- 381149 words of memory out of 3000000
- 20113 multiletter control sequences out of 15000+200000
- 4245 words of font info for 16 fonts, out of 3000000 for 9000
+ 21503 strings out of 492450
+ 426970 string characters out of 3120938
+ 502997 words of memory out of 3000000
+ 25257 multiletter control sequences out of 15000+200000
+ 16800 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,0n,67p,904b,277s stack positions out of 5000i,500n,10000p,200000b,50000s
-C:\Users\SVL\AppData\Local\Programs\MiKTeX 2.9\tex/latex/beamer\beamerinnerthemedefault.sty:16:  ==> Fatal error occurred, no output PDF file produced!
+ 58i,14n,67p,904b,662s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss17.pfb><C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi12.pfb><C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.pfb><C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/SVL/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on c:/Users\SVL\Seafile\documents\git-repositories\summercourse-revealed-preferences\Revealed_Preferences\Präsi\Präsi.pdf (40 pages, 2168189 bytes).
+PDF statistics:
+ 1121 PDF objects out of 1200 (max. 8388607)
+ 81 named destinations out of 1000 (max. 500000)
+ 103 words of extra memory for PDF output out of 10000 (max. 10000000)
+
